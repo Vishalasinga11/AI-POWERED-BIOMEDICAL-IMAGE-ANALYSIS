@@ -5,7 +5,7 @@ Extensive experiments demonstrate the system's effectiveness, achieving high acc
 In conclusion, this study presents a robust framework for automated biomedical image analysis, demonstrating the potential of machine learning and web technologies in revolutionizing healthcare diagnostics. 
 The system's accuracy and user-friendly interface make it a valuable tool for healthcare professionals, contributing to early disease detection and improved patient care.
 
-**Drive Link:** 
+**Drive Link:** https://drive.google.com/drive/folders/1d-i1CEk55UADL_N-36w7glA7xpejI7km?usp=sharing
 
 RESULTS:
 
