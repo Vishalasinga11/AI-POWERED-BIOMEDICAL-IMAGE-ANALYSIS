@@ -8,10 +8,22 @@ The system's accuracy and user-friendly interface make it a valuable tool for he
 **Drive Link:** 
 
 RESULTS:
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/9f6211da-0851-43bb-9468-229b86064a6a)
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/c318cfd6-6c00-47ad-9ab2-82d57beb63ae)
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/45de9988-5548-40fc-86e1-cbad3cc35591)
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/508f7984-4d92-4c02-8f5d-e783885f5e1b)
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/28a9bc0f-09a0-4165-8ed3-a8b2026d7c5d)
+
+
 ![image](https://github.com/Vishalasinga11/AI-POWERED-BIOMEDICAL-IMAGE-ANALYSIS/assets/102615378/fa19f396-7647-4926-a62e-e02440e79585)
 
